@@ -1,6 +1,7 @@
-# prueba1
+# Car - rental 
 
-A new Flutter project.
+
+Mobile application developed in fluttter and inspired by the design of Patryk Polak link: https://dribbble.com/shots/6439809-Car-Rental-app-concept
 
 ## Getting Started
 
